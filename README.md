@@ -7,3 +7,8 @@
 # Stats
 ![](https://github-readme-stats.vercel.app/api?username=zwuiix-cmd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=zwuiix-cmd&langs_count=4&count_private=true&theme=nord)
+
+---
+| Discord Status  | I use these languages  | Others  |
+| -- | -- | -- |
+| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846181502470455306)](https://discord.com/users/846181502470455306) | [![My Skills](https://skillicons.dev/icons?i=php,js,java,golang,python&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,mysql,linux&perline=3)](https://skillicons.dev) |
