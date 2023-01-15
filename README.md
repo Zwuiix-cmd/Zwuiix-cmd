@@ -11,4 +11,4 @@
 ---
 | Discord Status  | I use these languages
 | -- | -- |
-| [![Discord Presence](https://lanyard.cnrad.dev/api/846181502470455306)](https://discord.com/users/846181502470455306) | [![My Skills](https://skillicons.dev/icons?i=php,js,ts,java,golang,python,json,bash,md,bat&perline=3)](https://skillicons.dev) |
+| [![Discord Presence](https://lanyard.cnrad.dev/api/846181502470455306)](https://discord.com/users/846181502470455306) | [![My Skills](https://skillicons.dev/icons?i=php,js,ts,java,golang,python,json,md,bat&perline=3)](https://skillicons.dev) |
