@@ -9,6 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=zwuiix-cmd&langs_count=4&count_private=true&theme=nord)
 
 ---
-| Discord Status  | I use these languages  | Others  |
-| -- | -- | -- |
-| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846181502470455306)](https://discord.com/users/846181502470455306) | [![My Skills](https://skillicons.dev/icons?i=php,js,java,golang,python&perline=3)](https://skillicons.dev) |
+| Discord Status  | I use these languages
+| -- | -- |
+| [![Discord Presence](https://lanyard.cnrad.dev/api/846181502470455306)](https://discord.com/users/846181502470455306) | [![My Skills](https://skillicons.dev/icons?i=php,js,java,golang,python&perline=3)](https://skillicons.dev) |
