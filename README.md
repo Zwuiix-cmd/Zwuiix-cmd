@@ -11,4 +11,4 @@
 ---
 | Discord Status  | I use these languages  | Others  |
 | -- | -- | -- |
-| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846181502470455306)](https://discord.com/users/846181502470455306) | [![My Skills](https://skillicons.dev/icons?i=php,js,java,golang,python&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,mysql,linux&perline=3)](https://skillicons.dev) |
+| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846181502470455306)](https://discord.com/users/846181502470455306) | [![My Skills](https://skillicons.dev/icons?i=php,js,java,golang,python&perline=3)](https://skillicons.dev) |
