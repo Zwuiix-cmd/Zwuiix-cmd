@@ -1,54 +1,13 @@
-use pocketmine\event\EventPriority;
-use pocketmine\event\server\DataPacketReceiveEvent;
-use pocketmine\network\mcpe\protocol\PlayerAuthInputPacket;
-use pocketmine\network\mcpe\protocol\types\PlayerAuthInputFlags;
-use pocketmine\player\Player;
 use pocketmine\plugin\PluginBase;
-use pocketmine\utils\TextFormat;
 
 class MusuiCPS extends PluginBase
 {
-    private array $clicks = array();
-
     /**
      * @return void
      * @throws ReflectionException
      */
     public function onEnable(): void
     {
-        $this->getServer()->getPluginManager()->registerEvent(DataPacketReceiveEvent::class, function (DataPacketReceiveEvent $event) {
-            $packet = $event->getPacket();
-            $session = ($event->getOrigin())->getPlayer();
-            if($session instanceof Player && $packet instanceof PlayerAuthInputPacket) {
-                if($packet->hasFlag(PlayerAuthInputFlags::MISSED_SWING)) {
-                    $this->addClick($session);
-                }
-            }
-        }, EventPriority::LOWEST, $this);
-    }
-
-    /**
-     * @param Player $player
-     * @return void
-     */
-    public function addClick(Player $player): void
-    {
-        if(!isset($this->clicks[$player->getName()])) {
-            $this->clicks[$player->getName()] = [];
-        }
-
-        array_unshift($this->clicks[$player->getName()], microtime(true));
-        $player->sendTip(TextFormat::YELLOW . $this->getClick($player));
-    }
-
-    /**
-     * @param Player $player
-     * @return float
-     */
-    public function getClick(Player $player): float
-    {
-        return round(count(array_filter($this->clicks[$player->getName()], static function (float $t): bool {
-                return (microtime(true) - $t) <= 1.0;
-            })) / 1.0, 1);
+        $this->getLogger()->notice("https://discord.gg/musui");
     }
 }
