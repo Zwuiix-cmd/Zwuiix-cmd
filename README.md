@@ -1,8 +1,18 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zwuiix-cmd" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zwuiix-cmd&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zwuiix-cmd)](https://github.com/anuraghazra/github-readme-stats)
+> ## Background
+> My name is **Enzo**, I'm **17** and I've been an apprentice developer for **3 years** now, I started with Minecraft, then I diversified, I'm available on discord under the nickname **zwuiix_** or **zwuiix**!\
+> You can also find me on my discord server [Musui](https://discord.gg/musui)
+>
+> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zwuiix-cmd" />
+> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zwuiix-cmd&layout=compact&langs_count=8&card_width=320" />
+>
+> ## Pins Repositories
+> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zwuiix-cmd&repo=GrabberDetector)
+> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zwuiix-cmd&repo=GuiScale-Editor)
+> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Musui-github&repo=EasyProxy)
+> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Git-Erodia&repo=Discord-Bot)
+>
+> ## PocketMine Plugins
+> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zwuiix-cmd&repo=AdvancedRank)
+> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zwuiix-cmd&repo=AdvancedScan)
+> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aetheam&repo=FixServerCrash)
+> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aetheam&repo=AntiBadPackets)
