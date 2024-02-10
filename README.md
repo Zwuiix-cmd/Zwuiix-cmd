@@ -9,7 +9,6 @@
 > ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zwuiix-cmd&repo=GrabberDetector)
 > ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zwuiix-cmd&repo=GuiScale-Editor)
 > ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Musui-github&repo=EasyProxy)
-> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Git-Erodia&repo=Discord-Bot)
 >
 > ## PocketMine Plugins
 > ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zwuiix-cmd&repo=AdvancedRank)
