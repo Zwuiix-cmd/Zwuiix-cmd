@@ -1,5 +1,5 @@
 > ## Background
-> My name is **Enzo**, I'm **17** and I've been an apprentice developer for **4 years** now, I started with Minecraft, then I diversified, I'm available on discord under the nickname **zwuiix_** or **zwuiix**!\
+> My name is **Enzo**, I'm **18** and I've been an apprentice developer for **5 years** now, I started with Minecraft, then I diversified, I'm available on discord under the nickname **zwuiix_** or **zwuiix**!\
 > You can also find me on my discord server [Musui](https://discord.gg/musui)
 >
 > <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zwuiix-cmd" />
