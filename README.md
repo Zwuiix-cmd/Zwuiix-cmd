@@ -1,17 +1,14 @@
-> ## Background
-> My name is **Enzo**, I'm **18** and I've been an apprentice developer for **5 years** now, I started with Minecraft, then I diversified, I'm available on discord under the nickname **zwuiix_** or **zwuiix**!\
-> You can also find me on my discord server [Musui](https://discord.gg/musui)
->
-> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zwuiix-cmd" />
-> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zwuiix-cmd&layout=compact&langs_count=8&card_width=320" />
->
-> ## Pins Repositories
-> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zwuiix-cmd&repo=GrabberDetector)
-> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zwuiix-cmd&repo=GuiScale-Editor)
-> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Musui-github&repo=EasyProxy)
->
-> ## PocketMine Plugins
-> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zwuiix-cmd&repo=AdvancedRank)
-> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zwuiix-cmd&repo=AdvancedScan)
-> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aetheam&repo=FixServerCrash)
-> ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aetheam&repo=AntiBadPackets)
+### Hi there, I'm [Zwuiix](https://Zwuiix-cmd.github.io) 👋
+
+> [!NOTE]  
+> I am currently **18 years old**, I work in fast food in **France**, I speak French but I have difficulties in English. I wish to join the prestigious [42 school](https://42.fr/) in the coming year.
+
+> [!IMPORTANT]  
+> I'm currently working on various projects, such as my Reaver server and its Reaper anticheat, which has a php alternative called SaphirAc.
+
+
+I create and contribute to different projects that revolve around Minecraft in general, on many different things but I also touch on many areas, anticheat, server, software, protocol.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zwuiix-cmd&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[<img src="https://github-readme-stats-nine-jade-52.vercel.app/api?username=Zwuiix-cmd&theme=dark&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats-nine-jade-52.vercel.app/api/top-langs?username=Zwuiix-cmd&hide=css,cmake,batchfile,html&theme=dark&langs_count=8&layout=compact&card_width=320&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
