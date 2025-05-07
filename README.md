@@ -1,11 +1,7 @@
 ### Hi there, I'm [Zwuiix](https://Zwuiix-cmd.github.io) 👋
 
-> [!NOTE]  
-> I am currently **18 years old**, I work in fast food in **France**, I speak French but I have difficulties in English. I wish to join the prestigious [42 school](https://42.fr/) in the coming year.
-
 > [!IMPORTANT]  
-> I'm currently working on various projects, such as my Reaver server and its Reaper AntiCheat.
-
+> I'm currently working on various projects, such as my Érodia server.
 
 I create and contribute to different projects that revolve around Minecraft in general, on many different things but I also touch on many areas, anticheat, server, software, protocol.
 
