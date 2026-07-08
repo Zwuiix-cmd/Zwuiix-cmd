@@ -1,11 +1,9 @@
 <h1 align="center">Zwuiix</h1>
 
 <p align="center">
-	<strong>Enzo C.</strong>
-</p>
-
-<p align="center">
-	C++ • Reverse Engineering • Java
+	<img src="https://img.shields.io/badge/C%2B%2B-0A0D14?style=for-the-badge&logo=cplusplus&logoColor=8b5cf6&labelColor=090b12" alt="C++" />
+	<img src="https://img.shields.io/badge/Reverse%20Engineering-0A0D14?style=for-the-badge&logo=gnometerminal&logoColor=8b5cf6&labelColor=090b12" alt="Reverse engineering" />
+	<img src="https://img.shields.io/badge/Java-0A0D14?style=for-the-badge&logo=openjdk&logoColor=a78bfa&labelColor=090b12" alt="Java" />
 </p>
 
 ## About Me
