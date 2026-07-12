@@ -8,7 +8,7 @@
 
 ## About Me
 
-- Enzo C., 19 years old, french developer and student at 42 Paris.
+- Enzo C., 20 years old, french developer and student at 42 Paris.
 - I mainly work with C++, reverse engineering, and Java.
 - Working on Minecraft Bedrock modding, protocol analysis, and low-level systems.
 - Building <strong>Kodiak</strong> and <strong>Erodia</strong>, with attention to architecture and performance.
